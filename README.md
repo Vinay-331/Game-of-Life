@@ -14,9 +14,14 @@
 ## About this specific project
 
 * **The game is set to run at 12 Frames per second**
+* **Every cell has 25% chance to be alive(1) when the game starts**
 * **The game has a window resolution of 1000x1000**
 * **The grid is of 100x100 cells**
 * **Each cell has 10 pixel height and 10 pixel width**
 * **Alive(1) cells are drawn in GREEN**
   
+  ## Preview
+
+  **Game of life in action**
   
+
