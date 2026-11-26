@@ -24,4 +24,5 @@
 
   **Game of life in action**
   
+  ![Gameplay](Assets/gameplay.gif)
 
