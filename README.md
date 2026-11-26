@@ -26,3 +26,8 @@
   
   ![Gameplay](Assets/gameplay.gif)
 
+  ## Snapshots from the Game**
+  
+  ![screenshot1](Assets/Screenshot1.png)
+
+  ![screenshot2](Assets/Screenshot2.png)
