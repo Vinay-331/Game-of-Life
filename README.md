@@ -32,7 +32,7 @@
   
   ![Gameplay](Assets/gameplay.gif)
 
-  ## Snapshots from the Game**
+  ## Snapshots from the Game
   **Full snapshot**
   ![screenshot1](Assets/Screenshot1.png)
   **Close-up snapshot**
