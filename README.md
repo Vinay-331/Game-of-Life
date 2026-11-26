@@ -24,13 +24,13 @@
 * **Each cell has 10 pixel height and 10 pixel width**
 * **Alive(1) cells are drawn in GREEN**
   
-  ## Preview
+  # Preview
 
-  **Game of life in action**
+  ## Game of life in action
   
   ![Gameplay](Assets/gameplay.gif)
 
-  ## Snapshots from the Game
+  # Snapshots from the Game
   
   ## Full snapshot
   
