@@ -32,11 +32,10 @@
 
   ## Snapshots from the Game
   
-  **Full snapshot**
+  ## Full snapshot
   
   ![screenshot1](Assets/Screenshot1.png)
   
-  **Close-up snapshot**
+  ## Close-up snapshot
 
-  
   ![screenshot2](Assets/Screenshot2.png)
