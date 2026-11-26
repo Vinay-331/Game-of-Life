@@ -2,6 +2,12 @@
 
 **This is an implementation of Conway's Game of Life built in C++ using the raylib library, it is a zero player game based on a grid where a cell can either be alive (1) or dead (0), the cells update step by step based on a set of rules**
 
+## How to run the game
+**1. On the repository page, click the green **<> Code** button and select **Download ZIP**.**
+
+**2. Extract (unzip) the downloaded folder to a location on your computer.**
+
+**3. Open the extracted folder and double-click the `.exe` file to launch the game.**
 
 
 ## Rules of Life
@@ -27,7 +33,7 @@
   ![Gameplay](Assets/gameplay.gif)
 
   ## Snapshots from the Game**
-  
+  **Full snapshot**
   ![screenshot1](Assets/Screenshot1.png)
-
+  **Close-up snapshot**
   ![screenshot2](Assets/Screenshot2.png)
